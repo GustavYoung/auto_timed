@@ -1,2 +1,2 @@
 # auto_timed
-Simple bash script to keep sistem at current time witout adtional libraries.
+Simple bash script to keep system at current time and date without additional libraries.
