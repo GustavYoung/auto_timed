@@ -14,7 +14,8 @@ while true; do
         sleep 1;
 else
         sudo date -s "$(wget -qSO- --max-redirect=0 google.com 2>&1 | grep Date: | cut -d' ' -f5-8)Z";
-        eleep 5400;
-        done
+        date;
+        sleep 5400;
+#        done
 fi
 done
