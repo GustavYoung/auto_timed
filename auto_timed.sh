@@ -2,7 +2,7 @@
 #Copyright 2018 Gustavo Santana
 #(C) Mirai Works LLC
 #Desactivamos el puto cursor >P
-sleep 900;
+sleep 30;
 
 # Nombre de instancia para que no choque con la de uxmalstream
 SERVICE="Hora_auto_1";
